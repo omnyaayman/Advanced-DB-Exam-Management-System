@@ -1,4 +1,10 @@
-# 🎓 University Exam Management System  
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=UNI%20Exam&width=900&height=250&color=blue" />
+</p>
+
+<h1 align="center" style="color:#3498DB;">
+      University Exam Management System
+</h1>
 ## Advanced Database Project (PL/SQL)
 
 ---
